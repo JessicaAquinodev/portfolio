@@ -1,0 +1,27 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fefefe;
+  color: #333;
+}
+
+.hero {
+  background: linear-gradient(to right, #5e60ce, #4895ef);
+  color: white;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.section-title {
+  color: #5e60ce;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+a {
+  color: #5e60ce;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
